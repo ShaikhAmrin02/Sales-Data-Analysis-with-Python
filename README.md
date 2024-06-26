@@ -1,0 +1,1 @@
+Comprehensive Python project analyzing vehicle sales data to uncover insights and trends. Demonstrates data processing, exploratory analysis, and impactful visualizations for strategic business decisions.
